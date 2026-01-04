@@ -3,7 +3,17 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-04T23:21:05.420372414+09:00"
+    created: "2026-01-04T23:29:47.998224296+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 77a5d9f854ba21ba42a9ef4e9d853255729dcc72a70c9581448064b98f13ac61
+    name: mychart
+    type: application
+    urls:
+    - https://jaehong24.github.io/test-charts/charts/mychart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-04T23:29:47.99767305+09:00"
     description: A Helm chart for Kubernetes
     digest: 19c9467a2b2387a4d419c02ed1b1161591831b99fb81a31428c6a6b2c56d8335
     name: mychart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://jaehong24.github.io/test-charts/charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-04T23:21:05.419331227+09:00"
+generated: "2026-01-04T23:29:47.996166144+09:00"
